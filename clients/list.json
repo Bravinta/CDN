@@ -8,5 +8,10 @@
       "title": "Summa Campohermoso",
       "to": "https://summacampohermoso.com",
       "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/Summa%20Campohermoso/LogoCompuesto.webp"
+    },
+    {
+      "title": "Quikcode",
+      "to": "https://quikcode.pages.dev",
+      "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/Quikcode/logo_yellow_com.webp"
     }
 ]
