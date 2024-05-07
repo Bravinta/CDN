@@ -2,11 +2,27 @@
   {
     "title": "Industrias Carnicas Dmarca",
     "to": "https://carnicasdmarca.com",
-    "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/CarnicasDmarca/logo.png"
+    "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/CarnicasDmarca/logo.png",
+    "review": {
+      "title": "DMARCA confia en nosotros",
+      "message": "Trabajar junto con ellos fue algo impresionante, la comunicacion que tienen y la rapidez hizo que valiese la pena trabajar con ellos.",
+      "link": {
+        "title": "Ver pagina web",
+        "href": "https://carnicasdmarca.com"
+      }
+    }
   },
   {
     "title": "Buffal Burger",
     "to": "https://www.instagram.com/buffalburger",
-    "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/BufalBurger//buffalBurguer-black.png"
+    "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/BufalBurger//buffalBurguer-black.png",
+    "review": {
+      "title": "Buffal Burger confia en nosotros",
+      "message": "Trabajar junto con ellos fue algo impresionante, la comunicacion que tienen y la rapidez hizo que valiese la pena trabajar con ellos.",
+      "link": {
+        "title": "Ver pagina web",
+        "href": "https://carnicasdmarca.com"
+      }
+    }
   }
 ]
