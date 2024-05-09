@@ -11,5 +11,18 @@
         "href": "https://carnicasdmarca.com"
       }
     }
+  },
+  {
+    "title": "Qlicase",
+    "to": "https://qlicase.com",
+    "src": "https://cdn.jsdelivr.net/gh/Bravinta/CDN@main/clients/Qlicase/logo.png",
+    "review": {
+      "title": "Qlicase sabe quien somos.",
+      "message": "Trabajar junto con ellos fue algo impresionante, la comunicacion que tienen y la rapidez hizo que valiese la pena trabajar con ellos.",
+      "link": {
+        "title": "Ver pagina web",
+        "href": "https://qlicase.com"
+      }
+    }
   }
 ]
